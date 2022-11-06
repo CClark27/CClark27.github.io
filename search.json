@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/introduction.html",
+    "href": "posts/introduction.html",
+    "title": "Clark Blog",
+    "section": "",
+    "text": "---\ntitle: \"Connor's Introduction\"\nauthor: \"Connor Clark \"\ndate: '2022-11-4'\ncategories: [about, introduction]\nimage: \"image.png\"\nformat: \n  html:\n    code-fold: true\n---"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
